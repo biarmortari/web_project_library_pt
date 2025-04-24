@@ -341,22 +341,21 @@
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
-  color: #f2f2f2;
+  color: #ffffff;
   padding: 60px 80px;
 }
 
 .footer__columns {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 100px;
 }
 
 .footer__column_content_hours {
-  margin: 0 80px 0 auto;
+  margin: auto;
 }
 
 .footer__column_content_social {
-  margin: 0;
+  margin: 80px;
 }
 
 .footer__logo {
@@ -396,5 +395,5 @@
 }
 
 .footer__copyright {
-  margin: 0;
+  margin-top: 100px;
 }
