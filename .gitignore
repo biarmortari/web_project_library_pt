@@ -1,7 +1,2 @@
 # Ignora arquivos .DS_Store (macOS)
 .DS_Store
-
-# Outros arquivos opcionais para ignorar (se precisar):
-node_modules/
-.env
-*.log
